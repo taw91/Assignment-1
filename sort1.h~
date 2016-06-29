@@ -1,3 +1,0 @@
-void mergeSort(int *A,int n);
-
- 
