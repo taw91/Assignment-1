@@ -14,4 +14,3 @@ sort2 is a bubble sort which is a very slow and inefficient sorting algorithm th
 Insertion sort took 11296 ms
 sort1 took 30 ms
 sort2 took 55954 ms
-
